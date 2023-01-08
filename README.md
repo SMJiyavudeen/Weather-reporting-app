@@ -1,4 +1,4 @@
-# Weather-reporting-app
+# Weather-reporting-app in Java
 
 This code makes a request to the OpenWeatherMap API to get the weather data for a given city and then parses the JSON response to get the current temperature in degrees Celsius.
 
